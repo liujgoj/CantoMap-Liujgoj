@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2018-07-03T14:42:46+08:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
 		<MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/MapTask(updatad at30_1_2018)/20180627 Map Task/eaf/Subjects 7_8/160725_016F7_8_D2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./160725_016F7_8_D2.wav" />
@@ -1136,7 +1136,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a429" TIME_SLOT_REF1="ts857" TIME_SLOT_REF2="ts858">
 				<ANNOTATION_VALUE>haih &amp;r3 haih &amp;r3 haih &amp;r3 zijhauh zauh hair wanrlengjyvnx soenghminh hoeng yauh cvnj gwo # ganjzvh yatj &amp;eh cvnj gwo yauhbinj zijhauh &amp;lej zauh yatjzikh lokh heoi dou jan2yijsingx gaakleix</ANNOTATION_VALUE>
@@ -1363,7 +1363,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="F-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="F-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a367" TIME_SLOT_REF1="ts733" TIME_SLOT_REF2="ts734">
 				<ANNOTATION_VALUE>waakh|waar gungjcongr &amp;loj # &amp;eh # yauq go hao4_(Mandarin) daaih ge yinjcungj tungxmaaix yatj go hao4_(Mandarin) yau ge yinjcungj hao4_(Mandarin) daaih ge yinjcungj hair zorbinj # ganjzvh keoiq haahminh yauq yatj go yatj cej ge kwong|gwong math gam|gamr ge yeq &amp;laaj haakjsikj &amp;gaa cvnx haakjsikj &amp;gaa</ANNOTATION_VALUE>
@@ -1630,7 +1630,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="E-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="E-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts617" TIME_SLOT_REF2="ts618">
 				<ANNOTATION_VALUE>&amp;aa mxhaih &amp;eh neiq mxsair neiq mxsair neiq horyiq ceotjheoi sinj # yatjzanhgaanj sinj yaphlaix lor faanj|faanr</ANNOTATION_VALUE>

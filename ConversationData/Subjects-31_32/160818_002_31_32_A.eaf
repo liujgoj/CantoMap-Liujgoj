@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2018-07-03T16:00:48+08:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
 		<MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/MapTask(updatad at30_1_2018)/20180627 Map Task/eaf/Subjects 31_32/160818_002_31_32_A.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./160818_002_31_32_A.wav" />
@@ -2313,7 +2313,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a838" TIME_SLOT_REF1="ts1675" TIME_SLOT_REF2="ts1676">
 				<ANNOTATION_VALUE>yaux yauhbinj soengh faanjheoi</ANNOTATION_VALUE>
@@ -2860,7 +2860,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="F-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="F-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a752" TIME_SLOT_REF1="ts1503" TIME_SLOT_REF2="ts1504">
 				<ANNOTATION_VALUE>mouq nej|nij|neij zoh saanj &amp;wo</ANNOTATION_VALUE>
@@ -3307,7 +3307,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="E-jyutping">
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="E-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a630" TIME_SLOT_REF1="ts1259" TIME_SLOT_REF2="ts1260">
 				<ANNOTATION_VALUE>yauq louhsin gor go zauh haih Giver</ANNOTATION_VALUE>
