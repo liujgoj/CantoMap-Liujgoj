@@ -688,7 +688,7 @@
 	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts563" TIME_SLOT_REF2="ts564">
-				<ANNOTATION_VALUE>zikjhaih yauq gaaujcaaj go waih|wair jan2yijsingx touxon ge gaakleix &amp;gr3 &amp;lr3 &amp;wo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zikjhaih yauq gaaujcaaj go waih|wair yanryijsingx touxon ge gaakleix &amp;gr3 &amp;lr3 &amp;wo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -703,7 +703,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts579" TIME_SLOT_REF2="ts580">
-				<ANNOTATION_VALUE>&amp;waa hao4_(Mandarin) naanh &amp;aa nej|nij|neij go # hao4_(Mandarin) hoijboj # gin mx gin dou jan2yijsingx &amp;aa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&amp;waa hao4_(Mandarin) naanh &amp;aa nej|nij|neij go # hao4_(Mandarin) hoijboj # gin mx gin dou yanryijsingx &amp;aa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -713,7 +713,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts559" TIME_SLOT_REF2="ts560">
-				<ANNOTATION_VALUE>gor tiux zikhsin gor go ge waih|wair &amp;lej zauh heoi dou jan2yijsingx ge zingj soenghfongj &amp;aar # ganjzvh yatj # &amp;eh heoi dou zingj soenghfongj zijhauh &amp;lej zauh hoeng neiq ge # haahminh zikjhaih hoeng jan2 &amp;eh hoeng jan2yijsingx go fongjhoeng douh waakh|waar yatj tiux waakh|waar yatj tiux cecerdeir ge sin</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gor tiux zikhsin gor go ge waih|wair &amp;lej zauh heoi dou yanryijsingx ge zingj soenghfongj &amp;aar # ganjzvh yatj # &amp;eh heoi dou zingj soenghfongj zijhauh &amp;lej zauh hoeng neiq ge # haahminh zikjhaih hoeng yanr &amp;eh hoeng yanryijsingx go fongjhoeng douh waakh|waar yatj tiux waakh|waar yatj tiux cecerdeir ge sin</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -728,7 +728,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a298" TIME_SLOT_REF1="ts595" TIME_SLOT_REF2="ts596">
-				<ANNOTATION_VALUE>yiu|yiu1 zoengj tiux sin waakh|waar hair nej|nij|neij yatj go laamqjan3cejzaamh tungxmaaix # zor soengh fongj # &amp;r3 yauh soengh fongj ge timxhonghnungxzongj gor go hungjbaakh waih|wair douh # ganjzvh yiuq gwo nej|nij|neij yatj go ge timxhonghnungxzongj &amp;lej # hair nej|nij|neij go jan2yijsingx # yauqmouq gin dou jan2yijsingx &amp;aa neiq</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>yiu|yiu1 zoengj tiux sin waakh|waar hair nej|nij|neij yatj go laamqyancejzaamh tungxmaaix # zor soengh fongj # &amp;r3 yauh soengh fongj ge timxhonghnungxzongj gor go hungjbaakh waih|wair douh # ganjzvh yiuq gwo nej|nij|neij yatj go ge timxhonghnungxzongj &amp;lej # hair nej|nij|neij go yanryijsingx # yauqmouq gin dou yanryijsingx &amp;aa neiq</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -738,17 +738,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a294" TIME_SLOT_REF1="ts587" TIME_SLOT_REF2="ts588">
-				<ANNOTATION_VALUE>jan2yijsingx tungxmaaix zor soengh fongj # yauh soengh fongj gor go timxhonghnungxzongj gor go baakhsikj gor go hungjbaakh waih|wair douh waakh|waar tiux sin yiuq gwoheoi # yiuq gwoheoi wanrlengjyvnx douh # gam|gamr ganjzvh yiuq jun4 neiq yixgaaj tiux sin yingjgoij hair wanrlengjyvnx ge zih ge haahminh &amp;gaaj &amp;maa haih maij|mix</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>yanryijsingx tungxmaaix zor soengh fongj # yauh soengh fongj gor go timxhonghnungxzongj gor go baakhsikj gor go hungjbaakh waih|wair douh waakh|waar tiux sin yiuq gwoheoi # yiuq gwoheoi wanrlengjyvnx douh # gam|gamr ganjzvh yiuq yunx neiq yixgaaj tiux sin yingjgoij hair wanrlengjyvnx ge zih ge haahminh &amp;gaaj &amp;maa haih maij|mix</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts499" TIME_SLOT_REF2="ts500">
-				<ANNOTATION_VALUE>neiq gor tiux sin neiq yixgaaj gor tiux sin hair jan2yijsingx ge soenghfongj hair wanrlengjyvnx ge yauh soengh gok &amp;gaaj &amp;maa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>neiq gor tiux sin neiq yixgaaj gor tiux sin hair yanryijsingx ge soenghfongj hair wanrlengjyvnx ge yauh soengh gok &amp;gaaj &amp;maa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts547" TIME_SLOT_REF2="ts548">
-				<ANNOTATION_VALUE>haih &amp;laak hoeng gor go fongjhoeng douh # yix gwoheoi # gam|gamr ganjzvh &amp;lej # neiq yauq gin dou nej|nij|neij go laamqjan3cejzaamh &amp;maa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih &amp;laak hoeng gor go fongjhoeng douh # yix gwoheoi # gam|gamr ganjzvh &amp;lej # neiq yauq gin dou nej|nij|neij go laamqyancejzaamh &amp;maa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -768,12 +768,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts551" TIME_SLOT_REF2="ts552">
-				<ANNOTATION_VALUE>haih &amp;laak gam|gamr neiq gor tiux sin &amp;lej zauh yiu|yiu1 dauj gwo nej|nij|neij go yvnqyvndaaihsvh tungx laamqjan3cejzaamh zijgaanj go hungjbaakh waih|wair waakh|waar go waanj waih|wair dauj gwoheoi # gam|gamr ganjzvh yauq go taamxhanxsaanjlouh &amp;gaaj &amp;maa # gam|gamr gor tiux sin &amp;lej zauh yiu|yiu1 dauj gwo nej|nij|neij go taamxhanx taamxhanxsaanjlouh tungxmaaix yvnqyvndaaihsvh zungjgaanj gor go baakhsikj waih|wair # dauj gwoheoi # gam|gamr neiq yixgaaj gor tiux sin haih maij|mix waakh|waar dou heoi taamxhanxsaanjlouh gor go zih ge haahminh &amp;aa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih &amp;laak gam|gamr neiq gor tiux sin &amp;lej zauh yiu|yiu1 dauj gwo nej|nij|neij go yvnqyvndaaihsvh tungx laamqyancejzaamh zijgaanj go hungjbaakh waih|wair waakh|waar go waanj waih|wair dauj gwoheoi # gam|gamr ganjzvh yauq go taamxhanxsaanjlouh &amp;gaaj &amp;maa # gam|gamr gor tiux sin &amp;lej zauh yiu|yiu1 dauj gwo nej|nij|neij go taamxhanx taamxhanxsaanjlouh tungxmaaix yvnqyvndaaihsvh zungjgaanj gor go baakhsikj waih|wair # dauj gwoheoi # gam|gamr neiq yixgaaj gor tiux sin haih maij|mix waakh|waar dou heoi taamxhanxsaanjlouh gor go zih ge haahminh &amp;aa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts603" TIME_SLOT_REF2="ts604">
-				<ANNOTATION_VALUE>ganjzvh neiq go laamqjan3cejzaamh ge yauh soengh fongj wuiq|wuih|wuir yauqmouq go timxhonghnungxzongj &amp;aa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ganjzvh neiq go laamqyancejzaamh ge yauh soengh fongj wuiq|wuih|wuir yauqmouq go timxhonghnungxzongj &amp;aa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -783,7 +783,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts591" TIME_SLOT_REF2="ts592">
-				<ANNOTATION_VALUE>haih &amp;laak yatj go zauh haih yatj go zauh haih laamqjan3cejzaamh ge zingj soenghfongj yatj go zauh haih keoiq yauh soengh fongj &amp;aajmaa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih &amp;laak yatj go zauh haih yatj go zauh haih laamqyancejzaamh ge zingj soenghfongj yatj go zauh haih keoiq yauh soengh fongj &amp;aajmaa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -798,12 +798,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts607" TIME_SLOT_REF2="ts608">
-				<ANNOTATION_VALUE>haih gaizukh dauj soengqheoi &amp;r1 dauj &amp;eh soenghminh wuiq|wuih|wuir yauq go yauq go giuzouh yungryiuwuihtongx yauqmouq nej|nij|neij go &amp;aa gam|gamr neiq &amp;lej gor tiux sin &amp;lej zauh yiu|yiu1 hair yungryiuwuihtongx ge zih tungx gor go taamxhanxsaanjlouh touxon zungjgaanj go baakhsikj waih|wair yiuq soengqheoi # gam|gamr yinxhauh &amp;lej zoi yiu|yiu1 hair nej|nij|neij go ge # yungryiuwuihtongx tungx laamqjan3cejzaamh go baakhsikj waih|wair zoi waakh|waar tiux sin soengqheoi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih gaizukh dauj soengqheoi &amp;r1 dauj &amp;eh soenghminh wuiq|wuih|wuir yauq go yauq go giuzouh yungryiuwuihtongx yauqmouq nej|nij|neij go &amp;aa gam|gamr neiq &amp;lej gor tiux sin &amp;lej zauh yiu|yiu1 hair yungryiuwuihtongx ge zih tungx gor go taamxhanxsaanjlouh touxon zungjgaanj go baakhsikj waih|wair yiuq soengqheoi # gam|gamr yinxhauh &amp;lej zoi yiu|yiu1 hair nej|nij|neij go ge # yungryiuwuihtongx tungx laamqyancejzaamh go baakhsikj waih|wair zoi waakh|waar tiux sin soengqheoi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a260" TIME_SLOT_REF1="ts519" TIME_SLOT_REF2="ts520">
-				<ANNOTATION_VALUE>&amp;aa mx haih mx haih apj co zor mx haih jan2yijsingx # haih yvnqyvn &amp;aa haih &amp;laa zikjhaih zungrzij go zungjdimr &amp;lej wuiq|wuih|wuir hair jan2yijsingx douh ngoqdeih mukhbiuj yiu|yiu1 heoi jan2yijsingx &amp;aaq gin mx gin nej|nij|neij go yvnqyvndaaihsvh &amp;aa # yvnqyvndaaihsvh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&amp;aa mx haih mx haih apj co zor mx haih yanryijsingx # haih yvnqyvn &amp;aa haih &amp;laa zikjhaih zungrzij go zungjdimr &amp;lej wuiq|wuih|wuir hair yanryijsingx douh ngoqdeih mukhbiuj yiu|yiu1 heoi yanryijsingx &amp;aaq gin mx gin nej|nij|neij go yvnqyvndaaihsvh &amp;aa # yvnqyvndaaihsvh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -813,7 +813,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts571" TIME_SLOT_REF2="ts572">
-				<ANNOTATION_VALUE>gam|gamr neiq yauqmouq jan2 neiq yauq jan2yijsingx &amp;gaaj &amp;maa haih maij|mix</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gam|gamr neiq yauqmouq yanr neiq yauq yanryijsingx &amp;gaaj &amp;maa haih maij|mix</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -823,7 +823,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts495" TIME_SLOT_REF2="ts496">
-				<ANNOTATION_VALUE>haih &amp;laak gam|gamr neiq yixgaaj zauh yiu|yiu1 zoengj faanj|faanr tiux zikhsin # &amp;eh linx heoi jan2yijsingx ge zorbinj touxon ge zorbinj # gor douh zauh haih zungjdimr &amp;laak daar gaaujcaaj zauh haih zungjdimr &amp;laak</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih &amp;laak gam|gamr neiq yixgaaj zauh yiu|yiu1 zoengj faanj|faanr tiux zikhsin # &amp;eh linx heoi yanryijsingx ge zorbinj touxon ge zorbinj # gor douh zauh haih zungjdimr &amp;laak daar gaaujcaaj zauh haih zungjdimr &amp;laak</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -920,7 +920,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts383" TIME_SLOT_REF2="ts384">
-				<ANNOTATION_VALUE>jun4</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>yunx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -960,7 +960,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts435" TIME_SLOT_REF2="ts436">
-				<ANNOTATION_VALUE>hair jan2yijsingx ge haahminh &amp;laaj zikjhaih &amp;r6 gaak</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hair yanryijsingx ge haahminh &amp;laaj zikjhaih &amp;r6 gaak</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -987,12 +987,12 @@
 	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="E-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts367" TIME_SLOT_REF2="ts368">
-				<ANNOTATION_VALUE>hao4_(Mandarin) gam|gamr &amp;lej # zouh jun4 saai sei go map task &amp;laak haih maij|mix</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hao4_(Mandarin) gam|gamr &amp;lej # zouh yunx saai sei go map task &amp;laak haih maij|mix</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts371" TIME_SLOT_REF2="ts372">
-				<ANNOTATION_VALUE>gam|gamr yoengh &amp;lej yixgaaj zauh soengr cengr|cingr # &amp;eh cengr|cingr neiq ceotjheoi sinj # jan1waih ngoqdeih yixgaaj yiu|yiu1 zouh yatj go word list task &amp;gr3 gam|gamr cengr|cingr neiq ceotj zor heoi sinj gam|gamr yatjzanhgaanj zauh wuiq|wuih|wuir giu faanj|faanr neiq yaphlaix &amp;gaa &amp;laak</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gam|gamr yoengh &amp;lej yixgaaj zauh soengr cengr|cingr # &amp;eh cengr|cingr neiq ceotjheoi sinj # yanjwaih ngoqdeih yixgaaj yiu|yiu1 zouh yatj go word list task &amp;gr3 gam|gamr cengr|cingr neiq ceotj zor heoi sinj gam|gamr yatjzanhgaanj zauh wuiq|wuih|wuir giu faanj|faanr neiq yaphlaix &amp;gaa &amp;laak</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

@@ -216,7 +216,7 @@
 	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
-				<ANNOTATION_VALUE>yinxzijhauh yingjgoij heoi # hoeng gunghhaanxmaaqheitvnx tungxmaaix wanrlenggeijcoengx ge zungjgaanj cvnj gwo # gin dou nej|nij|neij go laamqjan1gamjzihtaap ge zingj haah fongj # gam|gamr yingjgoij yatjzikh hoeng go dungj hangx zauh gin dou zungjdimr &amp;gaa &amp;lr3</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>yinxzijhauh yingjgoij heoi # hoeng gunghhaanxmaaqheitvnx tungxmaaix wanrlenggeijcoengx ge zungjgaanj cvnj gwo # gin dou nej|nij|neij go laamqyanjgamjzihtaap ge zingj haah fongj # gam|gamr yingjgoij yatjzikh hoeng go dungj hangx zauh gin dou zungjdimr &amp;gaa &amp;lr3</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -251,7 +251,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
-				<ANNOTATION_VALUE>haih # jun4singx &amp;lr3</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih # yunxsingx &amp;lr3</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -283,7 +283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-				<ANNOTATION_VALUE>haih # hao4_(Mandarin) # jun4singx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>haih # hao4_(Mandarin) # yunxsingx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

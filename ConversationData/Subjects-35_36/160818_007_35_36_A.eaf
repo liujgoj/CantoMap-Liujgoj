@@ -535,12 +535,12 @@
 	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="G-liujgoj">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts423" TIME_SLOT_REF2="ts424">
-				<ANNOTATION_VALUE>&amp;eh zikjhaih hair nej|nij|neij go lingqyauwux gor go # waih|wair # &amp;eh zikjhaih hao4_(Mandarin) ciq waakh|waar go jun4hvnj gamryoengr ganjzvh haih go zungjdimr zauh hair baanhhonhtaap tungx lingqyauwux # zijgaanj gor go waihzi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&amp;eh zikjhaih hair nej|nij|neij go lingqyauwux gor go # waih|wair # &amp;eh zikjhaih hao4_(Mandarin) ciq waakh|waar go yunxhvnj gamryoengr ganjzvh haih go zungjdimr zauh hair baanhhonhtaap tungx lingqyauwux # zijgaanj gor go waihzi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts415" TIME_SLOT_REF2="ts416">
-				<ANNOTATION_VALUE>&amp;eh gam|gamr &amp;aax # yatj hoijtaux ngoqdeih wuiq|wuih|wuir hair nej|nij|neij go # jan5yijwux ge # haahminh gor douh haih hoijcir ge gor tiux louhsin # jan5yijwux gor douh # hoijcir # yinxzijhauh zauh lokh dou heoi nej|nij|neij go # baanhhonhtaap gor douh ge # yinxzijhauh zoi gaizukh hangx zauh heoi dou nej|nij|neij go wongrlojdangjtaap</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&amp;eh gam|gamr &amp;aax # yatj hoijtaux ngoqdeih wuiq|wuih|wuir hair nej|nij|neij go # yanqyijwux ge # haahminh gor douh haih hoijcir ge gor tiux louhsin # yanqyijwux gor douh # hoijcir # yinxzijhauh zauh lokh dou heoi nej|nij|neij go # baanhhonhtaap gor douh ge # yinxzijhauh zoi gaizukh hangx zauh heoi dou nej|nij|neij go wongrlojdangjtaap</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -570,7 +570,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts467" TIME_SLOT_REF2="ts468">
-				<ANNOTATION_VALUE>&amp;eh # zikjhaih beir jan4 soengjhoih gor go sauhhoih</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&amp;eh # zikjhaih beir yanx soengjhoih gor go sauhhoih</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -769,7 +769,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts288">
-				<ANNOTATION_VALUE>gam|gamr ngoqdeih wuiq|wuih|wuir zouh sei ci ge # gam|gamr yixgaaj zouh jun4 zor daihyatj ci &amp;lr6 # gam|gamr yixgaaj zauh hoijcir daihyih ci &amp;r6</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gam|gamr ngoqdeih wuiq|wuih|wuir zouh sei ci ge # gam|gamr yixgaaj zouh yunx zor daihyatj ci &amp;lr6 # gam|gamr yixgaaj zauh hoijcir daihyih ci &amp;r6</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
